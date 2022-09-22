@@ -1,0 +1,21 @@
+body{
+    background-image:url(./images/background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    backdrop-filter: blur(4px);
+
+}
+#whatsapp{
+    font-size: 30px;
+     color: rgb(72, 240, 72);
+}
+#instagram{
+    font-size: 30px;
+    color: hsla(333, 79%, 38%, 0.935);
+}
+#facebook{
+    font-size: 30px;
+    color: white;
+}
